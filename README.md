@@ -1,5 +1,5 @@
 # About Me
-I'm currently learning Phoenix framework in Elixir. I have experience <with React and back end frameworks like FastAPI, flask and express.<br>I'm looking to collaborate on projects in Machine Learning, IoT, data analytics and Web development.<br>
+I'm currently learning Phoenix framework in Elixir. I have experience with React and back end frameworks like FastAPI, flask and express.<br>I'm looking to collaborate on projects in Machine Learning, IoT, data analytics and Web development.<br>
 
 
 # Tech Stack:
